@@ -39,6 +39,7 @@ JS Animation help [GreenSock](https://greensock.com/)
 JS help from in class demonstrations and previous assignments.
 <br>
 VUE.JS help and documentation [VUE](https://vuejs.org/)
+
 ## License
 ***
 MIT
