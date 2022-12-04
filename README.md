@@ -2,11 +2,24 @@
 ## Brody Billings and Roy Chan
 <br>
 
+<img src="images/roku.png" width="250">
+
+<br>
+
 This is the submission file for Brody and Roys part 1 of the roku build.
 <br>
 
 A brief summary. This is a responsive app for mobile/tablet and desktop. The main use for this is a streaming app similar to Netflix, HULU and Amazon Prime.
-Feel free to look at this [Google Docs](https://drive.google.com/drive/folders/12-3_ZQVZFXVWx9EEwEe8saykGqXuEGpq?usp=sharing) Folder for planning and problem solving as well as our DEV notes.
+Feel free to look at this [Google Docs](https://drive.google.com/drive/folders/12-3_ZQVZFXVWx9EEwEe8saykGqXuEGpq?usp=sharing) Folder. This folder holds all of our planning notes pre assignment completion and bugs/fixes and anything needed during the development process.
+<br>
+
+### More indepth info
+***
+This project features many compenents as listed below.
+
+1. Vue
+2. GreenSock
+3. Data Loading from AJAX
 
 ## Installation
 ***
